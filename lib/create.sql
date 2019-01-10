@@ -3,4 +3,4 @@ CREATE TABLE projects (
     title TEXT, 
     category TEXT, 
     funding_goal TEXT
-    start_date);
+    start_date TEXT);
