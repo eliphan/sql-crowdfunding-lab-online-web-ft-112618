@@ -2,4 +2,4 @@ CREATE TABLE projects (
   id INTEGER PRIMARY KEY, 
     title TEXT, 
     category TEXT, 
-    aisle INTEGER);
+    funding_goal TEXT);
